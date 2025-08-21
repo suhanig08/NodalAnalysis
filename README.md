@@ -1,5 +1,3 @@
-# NodalAnalysis
-
 # Nodal Analysis for a Gas Well
 
 This project demonstrates **Nodal Analysis** for a gas well using Python.  
